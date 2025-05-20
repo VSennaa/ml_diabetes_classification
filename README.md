@@ -84,7 +84,7 @@ Esperamos, ao final do projeto, ter:
 
 ## 🚧 Status do Projeto
 
-> **Em andamento** – Etapas iniciais de análise e implementação do modelo.
+> **Em andamento** – Requer-se maior rigor na análise do algoritmo já obtido levando em contas os resultados obtidos.
 
 ---
 
