@@ -25,7 +25,7 @@ Utilizamos o [Diabetes Prediction Dataset](https://www.kaggle.com/datasets/marsh
 ## 🛠️ Tecnologias Utilizadas
 
 - `Python 3`
-- `NumPy`, `Pandas`, `Matplotlib`
+- `NumPy`, `Pandas`, `Matplotlib`. `sklearn`
 - Google Colab
 - Overleaf (para escrita colaborativa do artigo)
 
