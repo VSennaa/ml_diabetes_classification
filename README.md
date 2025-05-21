@@ -32,11 +32,10 @@ Utilizamos o [Diabetes Prediction Dataset](https://www.kaggle.com/datasets/marsh
 ## 📁 Organização do Projeto
 
 ```
-├── data/         # Dados brutos e tratados
-├── notebooks/    # Jupyter Notebooks (Google Colab)
-├── perceptron/   # Implementação do modelo Perceptron
-├── results/      # Gráficos, métricas e outputs
-├── article/      # Artigo em LaTeX (Overleaf)
+├── article/      # Artigo em LaTeX (WIP)
+├── Dataset_of_Diabetes.csv (Banco de dados não tratado)
+├── LICENSE
+├── perceptron_diabetes.ipynb (Notebook)
 └── README.md
 ```
 
