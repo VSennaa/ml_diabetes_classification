@@ -25,9 +25,7 @@ Utilizamos o [Diabetes Prediction Dataset](https://www.kaggle.com/datasets/marsh
 ## 🛠️ Tecnologias Utilizadas
 
 - `Python 3`
-- `NumPy`, `Pandas`, `Matplotlib`. `sklearn`
 - Google Colab
-- Overleaf (para escrita colaborativa do artigo)
 
 ## 📁 Organização do Projeto
 
@@ -52,7 +50,7 @@ Utilizamos o [Diabetes Prediction Dataset](https://www.kaggle.com/datasets/marsh
 
 Esperamos, ao final do projeto, ter:
 
-- Um modelo funcional de Perceptron treinado com dados clínicos reais;
+- Um modelo funcional de Perceptron;
 - Uma análise descritiva sobre a relação entre os atributos e a condição de diabetes;
 - Um artigo científico descrevendo o processo, resultados e possíveis aplicações clínicas.
 
