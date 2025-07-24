@@ -58,15 +58,6 @@ Esperamos, ao final do projeto, ter:
 
 ---
 
-## 👥 Autores
-
-- Lucas Nunes Assumpção  
-- Pedro Henrique Araujo Souza  
-- Victor Diniz Pessoa  
-- Vinicios Rodrigo Sena Martins  
-
----
-
 ## 📚 Referências
 
 1. Kaggle:  
