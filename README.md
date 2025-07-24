@@ -63,18 +63,5 @@ Esperamos, ao final do projeto, ter:
 1. Kaggle:  
    PATEL, Marshal. *Diabetes prediction dataset (legit dataset)*. 2023.  
    Disponível em: https://www.kaggle.com/datasets/marshalpatel3558/diabetes-prediction-dataset-legit-dataset
-
-2. Overleaf:  
-   https://pt.overleaf.com
-
-3. Google Colab:  
-   https://colab.research.google.com
-
----
-
-## 🚧 Status do Projeto
-
-> **Em andamento** – Requer-se maior rigor na análise do algoritmo já obtido levando em contas os resultados obtidos.
-
 ---
 
